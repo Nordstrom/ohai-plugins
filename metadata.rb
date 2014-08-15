@@ -1,0 +1,7 @@
+name             'ohai_plugins'
+maintainer       'Nordstrom, Inc.'
+maintainer_email 'itunixadminall@nordstrom.com'
+license          'All rights reserved'
+description      'Install custom ohai plugins'
+version          '1.0.6'
+depends          'ohai', '>= 2.0.2'
