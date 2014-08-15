@@ -91,6 +91,7 @@ Ohai.plugin(:HbaAttr) do
     end
     all_hosts
   end
+  #comment
 
   def get_attr_value(dir, attr)
     path = File.join(dir, attr)
